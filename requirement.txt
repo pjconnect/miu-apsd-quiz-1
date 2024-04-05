@@ -1,0 +1,9 @@
+Actors
+1. System User
+
+Actions
+1. Should be able to store contact
+2. Should be able to search through contact
+3. Should be able to add new contact / Update existing contact / Delete contact
+4. Should be able to merge duplicate contacts
+
